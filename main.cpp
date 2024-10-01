@@ -1,6 +1,6 @@
 #include <iostream>
-#include "Single_Linked_List.h"
-#include "Stack.h"
+#include "Single_Linked_List.hpp"
+#include "Stack.hpp"
 
 using namespace std;
 
